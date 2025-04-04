@@ -1,4 +1,4 @@
-# Proyecto de Simulación de Zombies en un Edificio
+# Prueba Técnica Empresa GoFlair - Simulación de Zombies en un Edificio
 
 ## Instalación y Ejecución
 
